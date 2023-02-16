@@ -1,2 +1,4 @@
-# TINPRO01-7
-Programmeren 7
+# TINPRO01-7 (Programmeren 7)
+
+## Inleiding
+Functioneel programmeren is een in opkomst zijnde manier van programmeren die nogal wat verschillen vertoont met de klassiek imperatieve manier van programmeren zoals dit bekend is in programmeertalen als C, C++, Java e.v.a. Functionele talen zijn gebaseerd op de zogeheten λ calculus, waardoor deze talen fundamenteel anders werken dan de meeste programmeurs gewend zijn. Daar puur functionele talen geen side effects kennen en bovendien referential transparency gebruiken i.p.v. destructive update zijn functionele talen zeer geschikt voor het gebruik op mulitcore platformen. Met het steeds populairder worden van deze platformen wordt ook het functioneel programmeren populairder. Verder is te zien dat met het steeds verder toenemen van het abstractieniveau, waarop computerprogramma’ s functioneren de behoefte aan talen, waarin deze abstracties compact kunnen worden uitgedrukt, toeneemt. Functionele talen lijken hier tot nu toe de betere papieren voor te hebben.
